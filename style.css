@@ -13,6 +13,8 @@ header {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    margin-left:140px;
+    margin-right:140px;
 }
 
 .logo {
@@ -32,4 +34,17 @@ ul {
     text-decoration: none;
     color: #E5E7EB;
     font-size:18px;
+}
+
+.hero {
+    display:flex;
+    gap:50px;
+    margin-left:140px;
+    margin-right:140px;
+    justify-content:center;
+}
+
+img {
+    height:250px;
+    width:500px
 }
