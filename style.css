@@ -4,11 +4,14 @@ body {
     margin:0;
 }
 
+.hero-and-header {
+    background: #1F2937;
+}
+
 header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background: #1F2937;
 }
 
 .logo {
