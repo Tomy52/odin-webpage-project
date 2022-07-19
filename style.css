@@ -17,9 +17,13 @@ header {
     margin-right:140px;
 }
 
+.logo,
+.hero-title {
+    color:#F9FAF8;
+}
+
 .logo {
     font-size:24px;
-    color:#F9FAF8;
 }
 
 ul {
@@ -42,6 +46,11 @@ ul {
     margin-left:140px;
     margin-right:140px;
     justify-content:center;
+}
+
+.hero-title {
+    font-size:48px;
+    font-weight:bolder;
 }
 
 img {
