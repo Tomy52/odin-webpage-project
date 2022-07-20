@@ -89,3 +89,8 @@ img {
     color: #1F2937;
     text-align: center;
 }
+
+.random-info {
+    display:flex;
+    flex-direction:column;
+}
