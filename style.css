@@ -55,6 +55,7 @@ ul {
 .hero-title {
     font-size:48px;
     font-weight:bolder;
+    margin-bottom:0px;
 }
 
 img {
