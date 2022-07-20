@@ -80,7 +80,7 @@ img {
 
 .random-info {
     display:flex;
-    
+    padding-bottom:100px;
 }
 
 .random-info .title {
