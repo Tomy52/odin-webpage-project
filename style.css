@@ -78,8 +78,14 @@ img {
     font-weight:bold;
 }
 
+.random-info {
+    display:flex;
+    
+}
+
 .random-info .title {
     font-size:36px;
     font-weight: bolder;
     color: #1F2937;
+    text-align: center;
 }
