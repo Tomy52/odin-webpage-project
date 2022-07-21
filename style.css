@@ -121,6 +121,7 @@ img {
     background:#E5E7EB;
     display:flex;
     flex-direction:column;
+    padding: 100px 200px;
 }
 
 #quote {
