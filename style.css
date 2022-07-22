@@ -148,3 +148,8 @@ img {
     padding:30px 100px;
     gap:30px
 }
+
+.call-to-action-content {
+    display:flex;
+    flex-direction:column;
+}
