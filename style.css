@@ -140,6 +140,7 @@ img {
 
 .call-to-action {
     display:flex;
+    align-items:center;
     background:#3882F6;
     margin:100px auto;
     border:10px #3882F6 solid;
