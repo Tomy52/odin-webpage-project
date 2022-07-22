@@ -141,4 +141,10 @@ img {
 
 .call-to-action {
     display:flex;
+    background:#3882F6;
+    margin:100px auto;
+    border:10px #3882F6 solid;
+    border-radius:10px;
+    padding:30px 100px;
+    gap:30px
 }
