@@ -174,3 +174,10 @@ img {
     font-size:15px;
     font-weight:bold;
 }
+
+.footer {
+    background: #1F2937;
+    padding: 25px 25px;
+    text-align:center;
+    color:white;
+}
