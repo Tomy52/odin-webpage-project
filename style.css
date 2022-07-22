@@ -138,3 +138,7 @@ img {
     font-weight:bold;
     text-align:end;
 }
+
+.call-to-action {
+    display:flex;
+}
