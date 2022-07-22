@@ -152,6 +152,7 @@ img {
 .call-to-action-content {
     display:flex;
     flex-direction:column;
+    gap:2px;
 }
 
 .call-to-action-title {
